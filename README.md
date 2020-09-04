@@ -1,6 +1,6 @@
-## Lesson-3
+## Lesson-4
 
-Going through our folder structure for the project, breaking out homepage component into smaller components
+Adding routing with react-router, then creating new routes for our existing homepage and our new hats page
 
 # How to fork and clone
 
