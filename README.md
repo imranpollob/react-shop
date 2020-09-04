@@ -1,6 +1,6 @@
-## Lesson-2
+## Lesson-3
 
-Creating our first component, homepage and adding scss to help us with writing our styles
+Going through our folder structure for the project, breaking out homepage component into smaller components
 
 # How to fork and clone
 
