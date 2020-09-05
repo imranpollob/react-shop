@@ -1,6 +1,6 @@
-## Lesson-7
+## Lesson-8
 
-Creating header component to demonstrate where react-router renders our content on the page using <route> component
+Starting our sign in section by creating a new sign in and sign up page, as well as start creating sign in component.
 
 # How to fork and clone
 
