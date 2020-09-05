@@ -1,6 +1,6 @@
-## Lesson-9
+## Lesson-10
 
-Creating our firebase database and adding the firebase library into our code. Add google sign in and authentication into our application. 
+Adding email/password sign up authentication for firebase, as a result we need to store our user objects in the database.
 
 # How to fork and clone
 
