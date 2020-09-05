@@ -1,6 +1,6 @@
-## Lesson-6
+## Lesson-7
 
-Create collection-preview and collection-item components for the shop page
+Creating header component to demonstrate where react-router renders our content on the page using <route> component
 
 # How to fork and clone
 
