@@ -1,6 +1,6 @@
-## Lesson-4
+## Lesson-6
 
-Adding routing with react-router, then creating new routes for our existing homepage and our new hats page
+Create collection-preview and collection-item components for the shop page
 
 # How to fork and clone
 
