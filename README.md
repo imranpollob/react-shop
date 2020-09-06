@@ -1,6 +1,6 @@
-## Lesson-15
+## Lesson-16
 
-We have updated our cart redux files to handle adding an item, we have also connected it to our updated collection-item.
+Now that we have created all the redux code for storing our data, now we are going to connect our items to add them to our cart.
 
 # How to fork and clone
 
