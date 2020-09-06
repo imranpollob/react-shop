@@ -1,6 +1,6 @@
-## Lesson-13
+## Lesson-14
 
-Let's update our app so that after a user signs-in they are redirected to the home page, also if a user is signed into our application, we don't want them to be able to access the signinandsignup page.
+We now need to create our cart feature in our application. To start, we'll create our cartIcon and cartDropdown components. Then we'll create the necessary reducer, actions, and types associated to handling hiding and showing the carDropdown component.
 
 # How to fork and clone
 
