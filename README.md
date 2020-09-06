@@ -1,6 +1,6 @@
-## Lesson-16
+## Lesson-17
 
-Now that we have created all the redux code for storing our data, now we are going to connect our items to add them to our cart.
+We need to create our cart-item component for our cart and connect our cart component to our cart reducer.
 
 # How to fork and clone
 
