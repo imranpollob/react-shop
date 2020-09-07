@@ -1,6 +1,6 @@
-## Lesson-20
+## Lesson-21
 
-We want to be able to remove the item from the cart if the user doesn't want it anymore during checkout so we're going to add the appropriate action and case in our cart reducer.
+We also want to be able to update the quantity using buttons to the left and right of the number, so we will add the appropriate code to do so.
 
 # How to fork and clone
 
