@@ -1,6 +1,6 @@
-## Lesson-17
+## Lesson-18
 
-We need to create our cart-item component for our cart and connect our cart component to our cart reducer.
+We want to separate all our business logic in our selectors. In this lesson we add a new selector to show our total count of items.
 
 # How to fork and clone
 
