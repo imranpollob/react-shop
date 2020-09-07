@@ -1,7 +1,6 @@
-## Lesson-19
+## Lesson-20
 
-Now that we have our cart, it's time to create our checkout page. We need a checkout component for the page and our checkout-item component. We're going to connect the page to our cart reducer; we're also going to make a selector to get the total price.
-
+We want to be able to remove the item from the cart if the user doesn't want it anymore during checkout so we're going to add the appropriate action and case in our cart reducer.
 
 # How to fork and clone
 
