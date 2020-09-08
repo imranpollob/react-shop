@@ -1,6 +1,6 @@
-## Lesson-25
+## Lesson-26
 
-We have removed the redux-logger middleware from our production build!
+We are now adding styled-components to explore CSS-in-JS. We convert over our Homepage component, Header component and CustomButton component to use styled-components instead of scss.
 
 # How to fork and clone
 
