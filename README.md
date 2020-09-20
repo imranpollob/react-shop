@@ -1,6 +1,6 @@
-## Lesson-28
+## Lesson-29
 
-In this lesson we are using redux-thunk for asynchronous event handling! We have modified our collections-page collections-overview components to use the container pattern to separate their loading logic out of our shop component, and into their own isolated files.
+We just added redux-saga into our application! The first thing we need to do is convert our fetchCollectionsStartAsync thunk method into a saga instead fo fetch our collections.
 
 # How to fork and clone
 
