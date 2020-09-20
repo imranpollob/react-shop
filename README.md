@@ -1,6 +1,6 @@
-## Lesson-27
+## Lesson-28
 
-We've moved our shop data into our firestore database, now we need to modify our application in such a way that considers our data being loaded asynchronously. We have created a WithSpinner HOC as well as modified our shop to initialize the call for data.
+In this lesson we are using redux-thunk for asynchronous event handling! We have modified our collections-page collections-overview components to use the container pattern to separate their loading logic out of our shop component, and into their own isolated files.
 
 # How to fork and clone
 
