@@ -1,6 +1,6 @@
-## Lesson-29
+## Lesson-30
 
-We just added redux-saga into our application! The first thing we need to do is convert our fetchCollectionsStartAsync thunk method into a saga instead fo fetch our collections.
+In this lesson we are doing a large refactor! We need to convert all our sign in, sign up and authentication persistence checks into sagas. We don't necessarily need to do this for our application, but this is a good way to practice writing sagas in a real world application that may not leverage firebase/firestore or the observer pattern.
 
 # How to fork and clone
 
