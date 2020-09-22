@@ -1,5 +1,5 @@
-# Lesson-31
-We have separated out our front-end client from our back-end express server that handles our stripe charges. In this section we learn how to write our express backend server as well as syncing our client to request our backend to complete a stripe charge!
+# Lesson-32
+We have added some media query styles to our styled components, try as an exercise to convert the appropriate pages to be mobile responsive!
 
 # How to fork and clone
 
