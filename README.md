@@ -1,5 +1,5 @@
-# Lesson-32
-We have added some media query styles to our styled components, try as an exercise to convert the appropriate pages to be mobile responsive!
+# Lesson-33
+We have optimized our client side application to leverage react.lazy for lazy loading our components at the route level, but also using the new Suspense feature so we're able to properly render our now asynchronously loaded components!
 
 # How to fork and clone
 
